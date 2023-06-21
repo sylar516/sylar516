@@ -1,8 +1,8 @@
-### Hi there 👋
+<-- ### Hi there 👋
 
 <h1 align="center">Hi there, I'm Eldar
 <img src="https://img.shields.io/badge/Java-8A2BE2" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3> -->
 
     <div class="Box mt-4 ">
   <div class="Box-body p-4">
