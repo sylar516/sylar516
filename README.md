@@ -20,9 +20,6 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ea894092a509009345879aa86defb430e0bfeec839eb3926c4e5756850df1e84/68747470733a2f2f72616e646f6d2d6d656d65722e6865726f6b756170702e636f6d2f"><img src="https://camo.githubusercontent.com/ea894092a509009345879aa86defb430e0bfeec839eb3926c4e5756850df1e84/68747470733a2f2f72616e646f6d2d6d656d65722e6865726f6b756170702e636f6d2f" width="512px" data-canonical-src="https://random-memer.herokuapp.com/" style="max-width: 100%;"></a></p>
 <hr>
 <p dir="auto"><a href="https://visitcount.itsvg.in" rel="nofollow"><img src="https://camo.githubusercontent.com/e8a3a62f56e5336897c8406a2b0a9788d05fb0d7be283cf2f7f53164b8ed43e3/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d616e6472796c61742669636f6e3d3026636f6c6f723d30" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=andrylat&amp;icon=0&amp;color=0" style="max-width: 100%;"></a></p>
-</article>
-  </div>
-</div>
 
 <!--
 **sylar516/sylar516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
