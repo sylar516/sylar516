@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi there, I'm Eldar
-<img src="https://img.shields.io/badge/Ninulka-like ice cream-red" height="32"/></h1>
+<img src="https://img.shields.io/badge/Ninulka like ice cream-red" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 <!--
